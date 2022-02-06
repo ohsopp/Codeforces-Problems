@@ -31,7 +31,7 @@
 *.out
 *.app
 
-# Useless file/folder
+# Useless files/folders
 /.vs
 .vs/
 /Debug
